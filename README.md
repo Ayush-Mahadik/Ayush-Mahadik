@@ -2,13 +2,12 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=15+Year+Old+Developer;Web+Development+Enthusiast;Gamer+%7C+Coder+%7C+Creator)
-  
+  Hi
 </div>
 
 ## 🚀 About Me
 
-I'm a **15-year-old student** passionate about technology and gaming. I love building cool stuff on the web and constantly learning new things. When I'm not coding, you'll probably find me gaming or exploring the latest tech trends.
+I'm a **student developer** passionate about technology and gaming. I love building cool stuff on the web and constantly learning new things. When I'm not coding, you'll probably find me gaming or exploring the latest tech trends.
 
 - 🎓 Currently a high school student
 - 💻 Web developer with a passion for modern technologies
